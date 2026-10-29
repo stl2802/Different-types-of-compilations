@@ -3,3 +3,4 @@ fastmath.cp313-win_amd64.pyd
 fastmath_pybind.cp313-win_amd64.pyd
 venv/
 c-api/ 
+__pycache__/
