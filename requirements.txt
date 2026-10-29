@@ -1,2 +1,4 @@
 NumPy
 numba
+pybind11
+setuptools
